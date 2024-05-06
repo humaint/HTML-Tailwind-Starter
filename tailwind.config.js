@@ -4,6 +4,9 @@ module.exports = {
     extend: {
       colors: {
         'daily-dev-tips': "#F89283"
+      },
+      fontFamily: {
+        'pixeloid' : ['Pixeloid Sans', 'sans-serif'],  
       }
     },
   },
