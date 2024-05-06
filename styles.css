@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'Pixeloid Sans';
-    src: local('Pixeloid Sans'), url(./fonts/PixeloidSans.ttf) format('ttf');
+    src: url(PixeloidSans.ttf);
 }
 
 @tailwind utilities;

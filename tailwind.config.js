@@ -6,7 +6,7 @@ module.exports = {
         'daily-dev-tips': "#F89283"
       },
       fontFamily: {
-        'pixeloid' : ['Pixeloid Sans', 'sans-serif'],  
+        'pixeloid' : ['Pixeloid Sans'],  
       }
     },
   },
